@@ -19,3 +19,5 @@ Exprcess框架入门介绍
 模版引擎
 ejs的视图模版引擎
 微博案例(Node.js+MongoDB)
+
+![](https://github.com/485564736/node_blog/raw/master/photo/1.png)
